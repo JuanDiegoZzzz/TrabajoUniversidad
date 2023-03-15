@@ -1,0 +1,15 @@
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\bin\Debug\net6.0\Unidad 5 Csharp.exe
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\bin\Debug\net6.0\Unidad 5 Csharp.deps.json
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\bin\Debug\net6.0\Unidad 5 Csharp.runtimeconfig.json
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\bin\Debug\net6.0\Unidad 5 Csharp.dll
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\bin\Debug\net6.0\Unidad 5 Csharp.pdb
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.csproj.AssemblyReference.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.AssemblyInfoInputs.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.AssemblyInfo.cs
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.dll
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\refint\Unidad 5 Csharp.dll
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.pdb
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\Unidad 5 Csharp.genruntimeconfig.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 5 Csharp\Unidad 5 Csharp\obj\Debug\net6.0\ref\Unidad 5 Csharp.dll
