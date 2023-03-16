@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C+0sWLxyXG0LE5/ucAEd1LRcWc3B8w2Gsb1D5Cr15zCsmMmgvsir2kmUZT/WZB7EhrudrwupY1wHOZodRXETzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Diego Zzz\\source\\repos\\Unidad 6\\Unidad 6\\Unidad 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Diego Zzz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

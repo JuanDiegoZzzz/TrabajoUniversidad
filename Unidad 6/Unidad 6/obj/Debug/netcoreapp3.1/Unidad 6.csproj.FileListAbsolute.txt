@@ -1,0 +1,14 @@
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.csproj.AssemblyReference.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.AssemblyInfoInputs.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.AssemblyInfo.cs
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.csproj.CoreCompileInputs.cache
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.exe
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.deps.json
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.runtimeconfig.json
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.runtimeconfig.dev.json
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.dll
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\bin\Debug\netcoreapp3.1\Unidad 6.pdb
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.dll
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.pdb
+C:\Users\Juan Diego Zzz\source\repos\Unidad 6\Unidad 6\obj\Debug\netcoreapp3.1\Unidad 6.genruntimeconfig.cache
